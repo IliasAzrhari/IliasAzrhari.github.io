@@ -1,0 +1,10 @@
+/* Tailwind CSS is used, so minimal custom CSS is needed */
+section {
+  padding: 0 1rem;
+}
+
+/* Ensure images are responsive */
+img {
+  max-width: 100%;
+  height: auto;
+}
